@@ -1,5 +1,7 @@
 # sales-dashbord
-Features:-<br />
+This project is fully based on automation by the slicers. If you choose any slicers then all charts change accourdingly
+
+# Features:-<br />
  ----Sales Trend <br />
  ----Top Employee<br />
  ----Customers reviews<br />
